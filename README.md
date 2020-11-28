@@ -1,4 +1,4 @@
-
+<span style="font-size:14px;"><img style="height:auto;" alt="" width="260" height="260" class="avatar avatar-user width-full border bg-white" src="https://avatars3.githubusercontent.com/u/6600853?s=460&amp;u=96cf224043c1c801ccdc8c435425562957548077&amp;v=4"></span>
 
 ## Projetos
 

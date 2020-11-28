@@ -1,4 +1,4 @@
-<img alt="" src="/community/novoportal/VirtualDisk.html?action=readFile&amp;file=1_robotica1_LARC2014.jpg&amp;current=/Noticias" style="width: 300px; height: 202px; float: left; margin-left: 10px; margin-right: 10px;">
+<img style="height:auto;" alt="" width="260" height="260" class="avatar avatar-user width-full border bg-white" src="https://avatars3.githubusercontent.com/u/6600853?s=460&amp;u=96cf224043c1c801ccdc8c435425562957548077&amp;v=4">
 
 ## Projetos
 

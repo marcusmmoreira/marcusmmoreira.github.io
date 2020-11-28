@@ -1,3 +1,5 @@
+<img alt="" src="/community/novoportal/VirtualDisk.html?action=readFile&amp;file=1_robotica1_LARC2014.jpg&amp;current=/Noticias" style="width: 300px; height: 202px; float: left; margin-left: 10px; margin-right: 10px;">
+
 ## Projetos
 
 # Machine Learning de dados de produtos reciclados.
@@ -8,5 +10,9 @@ o intuito é aplicar esse algoritmo em uma central de reciclagem que será capai
 
 # Machine Learning de dados jurídicos e preditivos judiciarios.
 O intuito é a extração missiva de dados públicos jurídicos, para analizar processos e prever possíveis tendencias, e encontrar falhas no sistema jurídico bem como cunho social de disponibilizar dados bem descritos para pessoas, bem como jurisprudência personalizada para advogados.
+
+# Auxiliar Abrigos animais de forma remota.
+
+O intuito é a criacao dos 
 
 # Facilitador de Integracoes entre sistemas.
